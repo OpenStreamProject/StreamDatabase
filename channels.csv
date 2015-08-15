@@ -1,1 +1,7 @@
-# Format: Id (Be creative don't use an id that has already been used), Title, Icon, URL of site that plays the channel
+# Format: Id (Be creative don't use an id that has already been used), Title, Icon, URL of site that plays the channel (Short urls only)
+
+bbcnews,BBC News (UK), ,http://goo.gl/pWdJZL
+cnnintl, CNN International (UK Feed), ,http://goo.gl/72ezng
+euronews, Euronews (English), ,http://goo.gl/xvXtjK
+france24, France 24 (English), ,http://goo.gl/b1oCyA
+bbcworldnews, BBC World News, ,http://goo.gl/GgkaPi
